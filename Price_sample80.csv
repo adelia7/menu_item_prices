@@ -1,0 +1,80 @@
+﻿,x1,restaurant,item,calories,cal_fat,total_fat,sat_fat,trans_fat,cholesterol,sodium,total_carb,fiber,sugar,protein,vit_a,vit_c,calcium,salad,price
+1,183,Arbys,Ham 'n Cheese Slider,210,70,8,3,0,25,780,21,1,2,13,NA,NA,NA,Other,$3.99
+2,191,Arbys,Roast Turkey Farmhouse Salad,230,120,13,7,0,55,870,8,2,5,22,60,20,25,Other,$4.99
+3,168,Arbys,Roast Turkey & Swiss Wrap,520,240,27,9,0,65,1640,39,4,6,30,20,10,35,Other,$4.99
+4,140,Arbys,Beef 'n Cheddar Classic,450,180,20,6,1,50,1280,45,2,9,23,2,2,15,Other,$6.39
+5,185,Arbys,Pizza Slider,300,150,17,6,0,35,930,23,1,2,13,NA,NA,NA,Other,$1.49
+6,151,Arbys,Double Roast Beef,510,210,24,9,1.5,95,1610,38,2,5,38,0,0,6,Other,$6.61
+7,146,Arbys,Buttermilk Chicken Bacon & Swiss,650,280,31,9,0,90,1750,56,2,9,39,NA,NA,NA,Other,$4.59
+8,164,Arbys,5 piece Prime-Cut Chicken Tenders,600,250,28,4,0,75,1590,47,3,0,39,0,8,2,Other,$5.19
+9,147,Arbys,Buttermilk Chicken Cordon Bleu Sandwich,690,310,35,10,0,110,2000,53,1,7,41,NA,NA,NA,Other,$4.59
+10,159,Arbys,Loaded Italian Sandwich,680,360,40,14,0.5,100,2270,49,3,7,32,NA,NA,NA,Other,$7.49
+11,255,Burger King,Pretzel Chicken Fries,340,189,21,3.5,0,45,1200,21,1,1,16,NA,NA,NA,Other,$3.09
+12,242,Burger King,4 Piece Chicken Nuggets,190,100,11,2,0,25,310,10,1,0,10,NA,NA,NA,Other,$1.00
+13,247,Burger King,Crispy Buffalo Chicken Melt,580,252,28,8,0.5,70,2310,56,NA,8,30,NA,NA,NA,Other,$5.59
+14,195,Burger King,Bacon Cheeseburger,330,140,16,7,0,55,830,32,1,7,18,NA,NA,NA,Other,$1.99
+15,214,Burger King,Sourdough King Double,970,549,61,24,3,205,1640,52,2,12,55,NA,NA,NA,Other,$5.99
+16,224,Burger King,Bacon Cheddar Ranch Chicken Salad w/ crispy Chicken & Dressing,720,450,50,13,0,120,1960,32,5,7,36,NA,NA,NA,Other,$6.19
+17,254,Burger King,Original Chicken Sandwich,630,350,39,7,1,65,1390,46,3,4,24,NA,NA,NA,Other,$4.09
+18,194,Burger King,Bacon & Swiss Sourdough King,1000,585,65,24,3,200,1320,48,2,8,56,NA,NA,NA,Other,$5.19
+19,225,Burger King,Chicken BLT Salad w/ Grilled Chicken,550,330,37,10,0,115,1640,17,3,5,36,NA,NA,NA,Other,$5.59
+20,204,Burger King,Double Quarter Pound King,900,486,54,25,3,210,1740,50,2,11,56,NA,NA,NA,Other,$5.89
+21,67,Chick Fil-A,6 piece Chicken Nuggets,190,81,9,1.5,0,55,730,7,1,0,21,0,4,2,Other,$3.24
+22,82,Chick Fil-A,Chargrilled Chicken Cool Wrap,350,126,14,5,0,60,960,29,15,3,37,60,35,35,Other,$7.29
+23,63,Chick Fil-A,3 Piece Chick-n-Strips,350,153,17,3,0,70,940,22,1,3,28,2,2,6,Other,$4.49
+24,68,Chick Fil-A,8 piece Chicken Nuggets,260,110,12,3,0,70,990,9,1,1,28,0,2,4,Other,$5.19
+25,81,Chick Fil-A,Spicy Deluxe,540,225,25,8,0,80,1760,43,2,6,34,30,10,30,Other,$5.09
+26,59,Chick Fil-A,Chargrilled Chicken Sandwich,310,54,6,2,0,55,820,36,3,7,29,25,40,10,Other,$5.69
+27,76,Chick Fil-A,12 Piece Grilled Chicken Nuggets,210,45,5,1,0,100,670,3,0,1,38,0,20,2,Other,$5.75
+28,69,Chick Fil-A,12 piece Chicken Nuggets,390,162,18,1.5,0,115,1460,14,2,1,41,0,8,4,Other,$4.45
+29,71,Chick Fil-A,Chicken Salad Sandwich,490,170,19,3,0,80,1130,55,5,12,28,35,8,15,Other,$3.99
+30,75,Chick Fil-A,8 piece Grilled Chicken Nuggets,140,36,4,1,0,70,440,2,0,0,25,0,10,2,Other,$3.85
+31,302,Dairy Queen,Grilled Chicken Wrap,280,130,15,4,0,30,800,22,1,1,15,10,4,10,Other,$1.89
+32,275,Dairy Queen,Chili Dog,330,180,20,8,1,40,1050,24,1,5,13,8,0,6,Other,$2.49
+33,273,Dairy Queen,Cheese Dog,390,220,24,11,1,50,1000,26,1,3,16,NA,NA,NA,Other,$4.69
+34,267,Dairy Queen,1/4 lb. Mushroom Swiss GrillBurger,570,310,35,11,1,75,820,39,2,8,24,2,0,25,Other,$3.99
+35,299,Dairy Queen,Grilled Chicken BLT Salad,380,170,19,9,0,100,1540,11,3,6,42,NA,NA,NA,Other,$6.19
+36,278,Dairy Queen,Barbecue Pork Sandwich,310,80,9,3,0,50,830,41,2,9,17,10,4,4,Other,$5.00
+37,269,Dairy Queen,Original Double Cheeseburger,630,310,34,18,2,125,1240,34,1,9,34,15,0,20,Other,$3.19
+38,297,Dairy Queen,Crispy Chicken Sandwich,600,270,30,5,0,55,1250,59,7,8,24,10,6,15,Other,$3.89
+39,292,Dairy Queen,3 chicken strips Chicken Strips,350,180,20,3,0,60,960,22,10,0,22,NA,NA,NA,Other,$5.00
+40,266,Dairy Queen,1/4 lb. GrillBurger with Cheese,540,270,30,11,1,70,1020,44,3,13,23,20,6,25,Other,$3.59
+41,30,Mcdonalds,Grilled Signature Sriracha Chicken Sandwich,560,180,20,5,0,115,1550,56,4,14,41,20,25,30,Other,$4.99
+42,1,Mcdonalds,Artisan Grilled Chicken Sandwich,380,60,7,2,0,95,1110,44,3,11,37,4,20,20,Other,$4.39
+43,15,Mcdonalds,Hamburger,250,70,8,3,0,30,480,31,2,6,13,2,2,4,Other,$2.49
+44,2,Mcdonalds,Single Bacon Smokehouse Burger,840,410,45,17,1.5,130,1580,62,2,18,46,6,20,20,Other,$5.29
+45,34,Mcdonalds,Crispy Sweet BBQ Bacon Chicken Sandwich,800,320,36,9,0.5,95,1820,80,5,18,39,4,20,30,Other,$4.99
+46,9,Mcdonalds,Double Cheeseburger,430,190,21,11,1,85,1040,35,2,7,25,20,4,15,Other,$1.69
+47,41,Mcdonalds,4 Piece Chicken McNuggets,180,100,11,2,0,30,340,11,1,0,10,0,2,0,Other,$1.99
+48,21,Mcdonalds,McDouble,380,160,18,8,1,70,840,34,2,7,23,10,2,10,Other,$1.39
+49,22,Mcdonalds,McRib,480,200,22,7,0,80,870,45,2,12,25,2,2,6,Other,$3.69
+50,6,Mcdonalds,Big Mac,540,250,28,10,1,80,950,46,3,9,25,10,2,15,Other,$3.99
+51,107,Sonic,Grilled Asiago Caesar Chicken Club Sandwich,610,270,30,7,0,110,1570,44,3,8,40,11,20,16,Other,$4.49
+52,122,Sonic,4 Piece Super Crunch Chicken Strip Dinner,1080,460,51,9,1,75,2390,118,8,9,37,1,7,13,Other,$6.79
+53,118,Sonic,Large Jumbo Popcorn Chicken,560,290,32,6,1,65,1890,41,5,2,27,0,0,4,Other,$4.99
+54,128,Sonic,Ultimate Chicken Club,100,580,64,15,0.5,100,2070,65,4,12,39,15,8,30,Other,$5.99
+55,94,Sonic,Sonic Burger W/ Ketchup,650,340,37,14,2,100,860,46,2,10,32,8,10,20,Other,$3.89
+56,112,Sonic,3 Piece Crispy Chicken Tender Dinner,280,130,14,2.5,0,0,800,16,0,0,22,NA,NA,NA,Other,$3.99
+57,133,Sonic,"All Beef Regular Hot Dog – 6""",320,160,18,7,0,40,870,27,1,3,11,0,2,8,Other,$3.39
+58,121,Sonic,3 Piece Super Crunch Chicken Strip Dinner,970,410,46,8,1,55,2160,109,7,9,30,1,6,13,Other,$5.79
+59,136,Sonic,Footlong Quarter Pound Coney,830,490,54,22,1,85,1940,54,3,9,30,15,4,30,Other,$3.69
+60,134,Sonic,Cheesy Bacon Pretzel Dog - 6 In.,500,240,26,10,0,50,1410,46,2,7,15,1,3,8,Other,$2.99
+61,398,Subway,Cheese Pizza,680,200,22,9,0,40,1070,96,4,7,32,25,4,45,Other,$5.50
+62,383,Subway,Oven Roasted Chicken Salad,140,25,3,0.5,0,50,280,10,4,4,19,50,60,8,Other,$6.00
+63,350,Subway,Footlong Subway Seafood Sensation,840,340,38,6,0,40,1380,102,10,16,26,20,40,70,Other,$7.00
+64,337,Subway,"6"" Roast Beef",320,40,5,2,0,40,700,45,5,7,24,8,20,30,Other,$4.75
+65,378,Subway,Cold Cut Combo Salad,180,95,11,4,0,45,820,12,4,5,12,50,50,10,Other,$6.00
+66,344,Subway,Footlong Steak and Cheese,760,180,20,10,0,100,2120,96,10,16,52,20,40,80,Other,$7.75
+67,329,Subway,Footlong Italian B.M.T.,820,300,32,12,0,90,2600,92,10,16,40,16,40,60,Other,$6.75
+68,325,Subway,Footlong Cold Cut Combo,740,240,26,8,0,100,2280,92,10,14,36,20,40,70,Other,$5.50
+69,319,Subway,Footlong Carved Turkey & Bacon w/ Cheese,1140,460,52,14,0,140,3200,92,10,16,66,20,40,80,Other,$7.75
+70,379,Subway,Double Chicken Salad,220,35,5,1.5,0,100,490,10,4,4,36,50,60,8,Other,$7.50
+71,491,Taco Bell,Chicken Quesadilla,520,250,28,12,1,75,1210,41,4,3,27,NA,NA,NA,Other,$3.39
+72,408,Taco Bell,Burrito Supreme® – Beef,420,140,16,7,0,35,1090,53,8,5,16,NA,NA,NA,Other,$3.49
+73,462,Taco Bell,Fresco Bean Burrito,350,80,9,3,0,0,950,57,9,3,11,NA,NA,NA,Other,$2.49
+74,402,Taco Bell,1/2 lb.* Combo Burrito,460,170,18,7,1,45,1320,53,9,3,21,NA,NA,NA,Other,$2.59
+75,496,Taco Bell,Crunchwrap Supreme®,540,190,21,6,0,30,1110,71,7,7,16,NA,NA,NA,Other,$2.99
+76,472,Taco Bell,Doritos® Cheesy Gordita Crunch - Nacho Cheese,490,250,28,10,1,55,880,40,5,5,20,NA,NA,NA,Other,$2.99
+77,416,Taco Bell,Chicken Crunchy Cheesy Core Burrito,610,210,24,9,0,55,1510,74,5,5,25,10,4,35,Other,$3.29
+78,506,Taco Bell,Spicy Chicken Crunchwrap Slider,400,180,20,4,0,25,900,42,3,3,15,NA,NA,NA,Other,$2.89
+79,433,Taco Bell,XXL Grilled Stuft Burrito - Steak,820,320,36,12,1,70,2020,91,10,7,33,NA,NA,NA,Other,$5.19
